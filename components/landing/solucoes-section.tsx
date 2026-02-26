@@ -167,7 +167,7 @@ export function SolucoesSection() {
               <Link
                 href={
                   activeTab === "maquininha"
-                    ? "https://maquina-seven.vercel.app/"
+                    ? "https://www.millionspaymaquininha.com/"
                     : "#formulario"
                 }
                 target={activeTab === "maquininha" ? "_blank" : undefined}
