@@ -1,5 +1,5 @@
-Termos de Uso
-
+Termos de Uso 
+Termos de Uso 
 MILLIONS PAY LTDA., pessoa jurídica de direito privado, inscrita no CNPJ sob o nº CNPJ: 
 56.002.183/0001-39, com sede profissional localizada na Rua XV de Novembro, 964 - 3º 
 andar, Centro, Curitiba/PR, CEP: 80060-000, doravante denominada (“MILLIONS PAY”), e 
@@ -9,7 +9,6 @@ Solidários”), que leu, entendeu, está de acordo e deu o aceite eletrônico, 
 denominado PARCEIRO, firmam o presente Contrato de Licença de Uso não exclusiva da 
 PLATAFORMA MILLIONS PAY (“Termos de  Uso/Instrumento”), do qual é parte integrante a 
 política de privacidade.  
-
 1- DA ACEITAÇÃO DO CONTRATO E DOCUMENTOS INTEGRANTES  
 1.1. O aceite das condições dos Termos de Uso da MILLIONS PAY configura uma licença de 
 uso não exclusiva da PLATAFORMA MILLIONS PAY para acesso e navegação;  
@@ -224,6 +223,7 @@ risco definidos neste contrato. O Saque será processado via Split de Pagamento,
 para a conta do PARCEIRO, descontadas as Tarifas aplicáveis devidas à MILLIONS PAY. 
 conforme previsto neste Instrumento;  
 4.25.2 – AJUSTE DE PRAZOS DE LIBERAÇÃO 
+
 A MILLIONS PAY poderá, a qualquer tempo e a seu exclusivo critério: 
 ● Alterar prazos de liberação de valores; 
 ● Estabelecer prazos superiores ao padrão; 
