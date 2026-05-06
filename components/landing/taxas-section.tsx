@@ -23,7 +23,7 @@ const taxasData = {
   },
   cartao: {
     titulo: "Cartão de Crédito",
-    taxa: "A partir de 6,49%",
+    taxa: "A partir de 3,49%",
     recebimento: "D+2",
     descricaoRecebimento: "Receba em 2 dias úteis",
     icon: CreditCard,
