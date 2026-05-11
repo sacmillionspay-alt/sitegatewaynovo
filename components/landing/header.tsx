@@ -125,13 +125,13 @@ export function Header() {
               className="text-foreground hover:text-primary hover:bg-primary/10 transition-all duration-700"
               asChild
             >
-              <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer">Fale com suporte</a>
+              <a href="https://app.conta.millionspay.com.br/login" target="_blank" rel="noopener noreferrer">Fazer Login</a>
             </Button>
             <Button
               className="bg-primary text-primary-foreground hover:bg-[#0d3320] hover:scale-105 transition-all duration-700 shadow-lg shadow-primary/25"
               asChild
             >
-              <a href={REGISTER_URL} target="_blank" rel="noopener noreferrer">Começar Agora</a>
+              <a href={REGISTER_URL} target="_blank" rel="noopener noreferrer">Criar Conta</a>
             </Button>
           </div>
 
