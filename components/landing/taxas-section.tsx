@@ -9,7 +9,7 @@ import Link from "next/link"
 const taxasData = {
   pix: {
     titulo: "Pix",
-    taxa: "2,99%",
+    taxa: "A partir de 0,99%",
     recebimento: "D+0",
     descricaoRecebimento: "Receba na hora",
     icon: Smartphone,
